@@ -307,7 +307,7 @@ according to your configuration.
                "esr-system-info": [
                               {
                                              	"esr-system-info-id": "55f97d59-6cc3-49df-8e69-926565f00066",
-                                             	"service-url": "http://10.12.25.2:5000/v3",
+                                             	"service-url": "http://100.67.92.38:5000/v3",
                                              	"user-name": "demo",
                                              	"password": "onapdemo",
                                              	"system-type": "VIM",

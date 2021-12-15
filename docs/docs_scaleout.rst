@@ -46,7 +46,7 @@ A section like that is required in that override file
       flavor: small
       appcUsername: "appc@appc.onap.org"
       appcPassword: "demo123456!"
-      openStackKeyStoneUrl: "http://10.12.25.2:5000"
+      openStackKeyStoneUrl: "http://100.67.92.38:5000"
       openStackKeystoneAPIVersion: "v3"
       openStackPublicNetId: "5771462c-9582-421c-b2dc-ee6a04ec9bde"
       openStackTenantId: "c9ef9a6345b440b7a96d906a0f48c6b1"
@@ -74,7 +74,7 @@ A section like that is required in that override file
       so-catalog-db-adapter:
         config:
           openStackUserName: "opesntack_user"
-          openStackKeyStoneUrl: "http://10.12.25.2:5000/v3"
+          openStackKeyStoneUrl: "http://100.67.92.38:5000/v3"
           openStackEncryptedPasswordHere: "1DD1B3B4477FBAFAFEA617C575639C6F09E95446B5AE1F46C72B8FD960219ABB0DBA997790FCBB12"
           openStackKeystoneVersion: "KEYSTONE_V3"
 
